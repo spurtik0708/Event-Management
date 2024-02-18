@@ -33,3 +33,8 @@ Run node server.js to start the server.
 Open your web browser and go to http://localhost:3000 to access the website.
 
 Feel free to contribute to this project by submitting bug fixes, feature enhancements, or feedback. Thank you for using our College Event Management website!
+
+![2024-01-28](https://github.com/spurtik0708/Event-Management/assets/118597103/5ae4ba76-cc48-4d2a-b65f-20f365d36992)
+
+![2024-01-28 (1)](https://github.com/spurtik0708/Event-Management/assets/118597103/ae2f2fa2-e73e-4eb9-bc82-cc6f855b49c1)
+
